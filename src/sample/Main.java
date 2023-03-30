@@ -10,7 +10,8 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch(args);
-        System.out.println("Legit");
+        System.out.println("Legitness");
+        System.out.println("conflict time");
     }
 
     @Override
